@@ -6,14 +6,14 @@ tidyData contains the average value of the mean and standard deviation data type
 These averages are sorted by subject and activity.  Below is a list of the column names and definitions. 
 
 ##Key
-The components of the labels indicate the following
-t = time
-f = frequency
-mean = mean value
-std = standard deviation
-X,Y,Z = indicates axis
-Acc = information gathered from an accelerometer
-Gyro = information gathered from a gyroscope
+-The components of the labels indicate the following
+-t = time
+-f = frequency
+-mean = mean value
+-std = standard deviation
+-X,Y,Z = indicates axis
+-Acc = information gathered from an accelerometer
+-Gyro = information gathered from a gyroscope
 
 ## List of Activities
 
